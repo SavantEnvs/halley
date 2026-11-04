@@ -1,0 +1,11 @@
+name: halley
+version: 3
+ratio: 0.25
+enabled: true
+items:
+  - one
+  - two
+  - 3
+nested:
+  key: value
+  list: [1, 2, 3]
