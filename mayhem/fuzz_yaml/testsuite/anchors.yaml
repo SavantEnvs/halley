@@ -1,0 +1,11 @@
+base: &b
+  x: 1
+  y: 2
+derived:
+  <<: *b
+  z: 3
+text: |
+  multi
+  line
+quoted: "a \"b\" c"
+empty: ~

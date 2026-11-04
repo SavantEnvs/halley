@@ -1,0 +1,6 @@
+- {a: 1, b: [x, y]}
+- !!str 12
+- ? complex
+  : value
+- 0x1F
+- 1.5e3
